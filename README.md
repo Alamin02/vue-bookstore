@@ -16,5 +16,5 @@ Project Features:
 
 ### How to use it
 Save this project and open terminal in the same directory.
-Install dependencies by typing `npm install`. Run `npm run serve` to start the application in `http://localhost:8080`.
+Install dependencies by typing `npm install`. Run `npm run dev` to start the application in `http://localhost:8080`.
 For production build run `npm run build`.
