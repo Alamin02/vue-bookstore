@@ -4,7 +4,7 @@ import Home from '@/components/Home'
 import AllProducts from '@/components/AllProducts'
 import Categories from '@/components/Categories'
 import ProductDetails from '@/components/ProductDetails'
-import Checkout from '@/components/checkout'
+import Checkout from '@/components/Checkout'
 
 Vue.use(Router)
 
